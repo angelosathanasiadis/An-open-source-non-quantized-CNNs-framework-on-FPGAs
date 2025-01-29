@@ -1,0 +1,4 @@
+train  = data/unet/train.list
+label = data/unet/labels.list
+backup = backup/
+top=2
